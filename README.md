@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishu Raj</h1>
-<h3 align="center">An Insightful Data Science and ML Enthusiasts</h3>
+<h3 align="center">An Insightful Data Science and ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stunner007-ir&label=Profile%20views&color=0e75b6&style=flat" alt="stunner007-ir" /> </p>
 
