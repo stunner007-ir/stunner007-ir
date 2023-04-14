@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flask,Tensorflow**
 
-- 📫 How to reach me **ishu9693raj@gmail.com**
+- 📫 Email me @ **ishu9693raj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
