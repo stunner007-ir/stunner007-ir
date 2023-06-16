@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stunner007-ir" alt="stunner007-ir" /></a> </p>
 
-- 🌱 I’m currently learning **Flask,Tensorflow**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 Email me @ **ishu9693raj@gmail.com**
 
