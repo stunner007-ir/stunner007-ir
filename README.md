@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ishuraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishu-raj/)](https://www.linkedin.com/in/rajaprerak/)
 [![Gmail Badge](https://img.shields.io/badge/-ishu9693raj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:ishu9693raj@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://stunner007-ir.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://stunner007-ir.github.io/Portfolio-Ishu-Raj/)
 
 💻 **Interests**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
