@@ -12,7 +12,8 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development (Django/ Flask) ✍️
 - Machine Learning 🧐
-- Data Science 😬
+- C/C++
+- Shell Programming
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=stunner007-ir&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
