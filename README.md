@@ -3,8 +3,8 @@
 
 
 ### Hi there, I am Ishu Raj 👋
-[![Linkedin Badge](https://img.shields.io/badge/-ishuraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishu-raj/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-ishu9693raj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:ishu9693raj@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-ishuraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishu-raj/)](https://www.linkedin.com/in/ishu-raj/)
+[![Gmail Badge](https://img.shields.io/badge/-ishu9693raj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishu9693raj@gmail.com)](mailto:ishu9693raj@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://stunner007-ir.github.io/Portfolio-Ishu-Raj/)
 
@@ -12,8 +12,6 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development (Django/ Flask) ✍️
 - Machine Learning 🧐
-- C/C++
-- Shell Programming
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=stunner007-ir&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
