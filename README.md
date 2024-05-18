@@ -10,7 +10,7 @@
 
 💻 **Interests**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development (Django/ Flask) ✍️
+- Backend Development ✍️
 - Machine Learning 🧐
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
